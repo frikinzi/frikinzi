@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Angela Jiang (she/her) and I am a Computational Biology, Bioinformatics and Genomics Ph.D. student at the University of Maryland, co-advised by [Dr. Brantley Hall](https://www.halllab.org/) and [Dr. Xiaofang Jiang](https://www.ncbi.nlm.nih.gov/CBBresearch/jianglab/index.html) at the National Institutes of Health. I am interested in research on the functions of the gut microbiome and developing bioinformatic tools to study microbiomes. I also studied the evolution of uncultivable microeukaryotes as an undergraduate at Smith College. When I'm not doing research or teaching or studying for classes, you can find me hiking, playing video games or [developing video game mods](https://github.com/frikinzi/frikinzis_fauna). 
 
 <!--
 **frikinzi/frikinzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
